@@ -1,3 +1,5 @@
+// Question URL: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+
 import java.util.*;
 
 public class BinaryGap 
